@@ -1,4 +1,4 @@
-Proyecto: Implementación de Herramientas Digitales para la Gestión de Operaciones y Logística para asociaciones de socorristas voluntarios 
+Proyecto: Implementación de herramientas digitales para la gestión de operaciones y logística para asociaciones de socorristas voluntarios 
 
 Introducción: Este proyecto tiene como finalidad mejorar la eficiencia en la respuesta a emergencias mediante la asignación rápida de tareas y la supervisión en tiempo real para así facilitar la comunicación entre los miembros del grupo de rescate y los coordinadores para optimizar la toma de decisiones mediante el acceso a información detallada sobre la situación de emergencia y los recursos disponibles.
 
