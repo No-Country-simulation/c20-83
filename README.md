@@ -12,7 +12,7 @@ Objetivo: Facilitar herramientas digitales para mejorar la gestión y control de
     - Tipos de víctimas más frecuentes
     - Edad
     - Lesiones
-- Implementar planillas de entrega y recepción de materiales para controlar el uso y devolución de equipos, como radios, camillas tacticas, soporte respiratorio, DEA, etc.
+- Implementar planillas de entrega y recepción de materiales para controlar el uso y devolución de equipos, como radios, camillas tacticas, soporte respiratorio y DEA.
 
 Beneficios:
 
