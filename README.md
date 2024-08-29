@@ -2,7 +2,7 @@ Proyecto: Implementación de herramientas digitales para la gestión de operacio
 
 Introducción: Este proyecto tiene como finalidad mejorar la eficiencia en la respuesta a emergencias mediante la asignación rápida de tareas y la supervisión en tiempo real para así facilitar la comunicación entre los miembros del grupo de rescate y los coordinadores para optimizar la toma de decisiones mediante el acceso a información detallada sobre la situación de emergencia y los recursos disponibles.
 
-Objetivo: Brindar herramientas digitales para mejorar la gestión y control de las areas de operaciones y logística de las instituciones
+Objetivo: Facilitar herramientas digitales para mejorar la gestión y control de las áreas de operaciones y logística de las instituciones
 
 - Desarrollar planillas digitales para el área logística, incluyendo:
     - Inventario
@@ -30,9 +30,9 @@ Próximos pasos:
 Imagenes del prototipo de la aplicacion :
 
 - Usando las herramientas de Airtable se creo la base de datos, en el caso del area de operaciones la planilla se envio en modo de formulario para ser completado por el socorrista y al enviarlo los datos
-- se cargan automaticamente generando el resgitro de las victimas actendidas en los diferentes operativos, esta planilla cuenta los datos requerido segun el protocolo de un examen primario
-- en el caso del area de logistica se armo la planilla de inventario donde se pueden infresar los datos de equipo , lugar donde se guarda, cantidad , etc.
-  El paso siguiente es la creacion de una app andrid confeccionada en Thunkable cuya finalidad es la de ser la interface entre el usuario y la base de datos en Airtable
+- Se cargan automaticamente generando el resgitro de las victimas actendidas en los diferentes operativos, esta planilla cuenta los datos requerido segun el protocolo de un examen primario
+- En el caso del área de logística se armó la planilla de inventario donde se pueden infresar los datos de equipo , lugar donde se guarda, cantidad.
+  El paso siguiente es la creación de una app andrid confeccionada en Thunkable cuya finalidad es la de ser la interface entre el usuario y la base de datos en Airtable
 
 
   ![image](https://github.com/user-attachments/assets/c5a0147d-c74e-4e60-8518-2a9247ca24ee)
