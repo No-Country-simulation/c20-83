@@ -1,4 +1,4 @@
-Título: Implementación de Herramientas Digitales para la Gestión de Operaciones y Logística para asociaciones de socorristas voluntarios de Argentina
+Proyecto: Implementación de Herramientas Digitales para la Gestión de Operaciones y Logística para asociaciones de socorristas voluntarios de Argentina
 
 Objetivo: Brindar herramientas digitales para mejorar la gestión y control de las areas de operaciones y logística de las instituciones
 
