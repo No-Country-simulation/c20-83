@@ -31,8 +31,8 @@ Imagenes del prototipo de la aplicacion :
 
 - Usando las herramientas de Airtable se creo la base de datos, en el caso del area de operaciones la planilla se envio en modo de formulario para ser completado por el socorrista y al enviarlo los datos
 - Se cargan automaticamente generando el resgitro de las victimas actendidas en los diferentes operativos, esta planilla cuenta los datos requerido segun el protocolo de un examen primario
-- En el caso del área de logística se armó la planilla de inventario donde se pueden infresar los datos de equipo , lugar donde se guarda, cantidad.
-  El paso siguiente es la creación de una app andrid confeccionada en Thunkable cuya finalidad es la de ser la interface entre el usuario y la base de datos en Airtable
+- En el caso del área de logística se armó la planilla de inventario donde se pueden ingresar los datos de equipo , lugar donde se guarda y cantidad.
+  El paso siguiente es la creación de una app android diseñada en Thunkable cuya finalidad es la de ser la interfaz entre el usuario y la base de datos en Airtable
 
 
   ![image](https://github.com/user-attachments/assets/c5a0147d-c74e-4e60-8518-2a9247ca24ee)
