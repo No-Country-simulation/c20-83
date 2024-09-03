@@ -27,7 +27,7 @@ Próximos pasos:
 - Realizar pruebas piloto en las áreas de operaciones y logística
 - Evaluar y ajustar el sistema según sea necesario
 
-Imagenes del prototipo de la aplicacion :
+Imágenes del prototipo de la aplicacion :
 
 - Usando las herramientas de Airtable se creo la base de datos, en el caso del area de operaciones la planilla se envio en modo de formulario para ser completado por el socorrista y al enviarlo los datos
 - Se cargan automaticamente generando el resgitro de las victimas actendidas en los diferentes operativos, esta planilla cuenta los datos requerido segun el protocolo de un examen primario
