@@ -4,7 +4,7 @@ Este proyecto tiene como finalidad mejorar la eficiencia en la respuesta a emerg
 
 Objetivo: Facilitar herramientas digitales para mejorar la gestión y control de las áreas de operaciones y logística de las instituciones
 
-- Desarrollar planillas digitales para el área logística, incluyendo:
+- Desarrollar planillas digitales para el área logística incluyendo:
     - Inventario
     - Entrada y salida de materiales
     - Rutinas de mantenimiento de equipos
@@ -29,8 +29,8 @@ Próximos pasos:
 
 Imágenes del prototipo de la aplicacion :
 
-- Usando las herramientas de Airtable se creo la base de datos, en el caso del area de operaciones la planilla se envio en modo de formulario para ser completado por el socorrista y al enviarlo los datos
-- Se cargan automaticamente generando el resgitro de las victimas actendidas en los diferentes operativos, esta planilla cuenta los datos requerido segun el protocolo de un examen primario
+- Usando las herramientas de Airtable se creó la base de datos, en el caso del area de operaciones la planilla se envió en modo de formulario para ser completado por el socorrista y al enviarlo los datos
+- Se cargan automaticamente generando el resgitro de las víctimas atendidas en los diferentes operativos, esta planilla cuenta los datos requerido según el protocolo de un examen primario
 - En el caso del área de logística se armó la planilla de inventario donde se pueden ingresar los datos de equipo , lugar donde se guarda y cantidad.
   El paso siguiente es la creación de una app android diseñada en Thunkable cuya finalidad es la de ser la interfaz entre el usuario y la base de datos en Airtable
 
