@@ -30,7 +30,7 @@ Próximos pasos:
 Imágenes del prototipo de la aplicacion :
 
 - Usando las herramientas de Airtable se creó la base de datos, en el caso del area de operaciones la planilla se envió en modo de formulario para ser completado por el socorrista y al enviarlo los datos
-- Se cargan automaticamente generando el resgitro de las víctimas atendidas en los diferentes operativos, esta planilla cuenta los datos requerido según el protocolo de un examen primario
+- Se cargan automaticamente generando el registro de las víctimas atendidas en los diferentes operativos, esta planilla cuenta los datos requerido según el protocolo de un examen primario
 - En el caso del área de logística se armó la planilla de inventario donde se pueden ingresar los datos de equipo , lugar donde se guarda y cantidad.
   El paso siguiente es la creación de una app android diseñada en Thunkable cuya finalidad es la de ser la interfaz entre el usuario y la base de datos en Airtable
 
